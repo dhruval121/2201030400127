@@ -1,0 +1,1592 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 283.3rem;
+}
+p{
+  text-align: center;
+  left: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 20px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.desktop-6-3Nf {
+  box-sizing: border-box;
+  padding: 21.7rem 0rem 6.587rem 7.8rem;
+  width: 100%;
+  height: 593.5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.desktop-6-3Nf .blog-Kqy {
+  box-sizing: border-box;
+  padding: 0rem 16rem 0rem 16rem;
+  width: 331.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw {
+  margin: 0rem 69.6rem 0rem 69.7rem;
+  width: calc(100% - 139.3rem);
+  height: 8rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.0860000029), 0 0.2289rem 0.2289rem rgba(0, 0, 0, 0.1449999958), 0 0.0602rem 0.0602rem rgba(0, 0, 0, 0.1570000052);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .pframer-text-7mq {
+  width: 9.9rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 81.119rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .pframer-text-kK1 {
+  width: 5.3rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 94.252rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .pframer-text-RAF {
+  width: 9.8rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 102.764rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .pframer-text-hNf {
+  width: 15.4rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 115.775rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #2996f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .pframer-text-PFV {
+  width: 3.3rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.438rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .after-res {
+  width: 160rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-m7zs3h-pGw .link-aKy {
+  width: 13.986rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 142.9rem;
+  top: 2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1999999455;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.0500000007), 0 1.3647rem 1.3647rem rgba(0, 0, 0, 0.1059999987), 0 0.6866rem 0.6866rem rgba(0, 0, 0, 0.125), 0 0.3622rem 0.3622rem rgba(0, 0, 0, 0.1369999945), 0 0.1807rem 0.1807rem rgba(0, 0, 0, 0.1449999958), 0 0.0707rem 0.0707rem rgba(0, 0, 0, 0.150000006);
+  background-color: #f7931e;
+  border-radius: 0.5rem;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  padding-right: 80.1rem;
+  width: 100%;
+  height: 60rem;
+  display: flex;
+  align-items: center;
+  background-color: #ee2a00;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .hc3njrd4zvy0k5oai20k4c2f70jpg-L6B {
+  margin-right: 17rem;
+  width: 139.7rem;
+  height: 60rem;
+  position: relative;
+  background-size: 112.445% 100%;
+  background-position: -8.6929rem 0;
+  background-image: url('../assets/hc3njrd4zvy0k5oai20k4c2f70jpg.png');
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .divframer-1ehqtj4-Cu5 {
+  margin: 18.15rem 0rem 18.25rem 0rem;
+  width: 62.5rem;
+  height: calc(100% - 36.4rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .divframer-1ehqtj4-Cu5 .how-to-increase-your-employee-engagement-through-gamification-W95 {
+  max-width: 62.5rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .divframer-1ehqtj4-Cu5 .auto-group-akzo-oP5 {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .divframer-1ehqtj4-Cu5 .auto-group-akzo-oP5 .sep-27-2023-wVH {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #f8f8f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .link-QTR .divframer-1ehqtj4-Cu5 .auto-group-akzo-oP5 .matt-sanasi-4po {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #f8f8f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-1u0msac-ZmZ {
+  margin: 0rem 74.6rem 13rem 74.7rem;
+  width: calc(100% - 149.3rem);
+  height: 5rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-1u0msac-ZmZ .divframer-1kya90c-5zo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 2.2rem rgba(0, 0, 0, 0.0399999991);
+  background-color: #fcfcfc;
+  border-radius: 0.5rem;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-1u0msac-ZmZ .divframer-1kya90c-5zo .explore-our-blogs-SaT {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 1.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1d1d20;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-1u0msac-ZmZ .divframer-1kya90c-5zo .divframer-f95fn4-container-wn7 {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 145.8rem;
+  top: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-1u0msac-ZmZ .divframer-1kya90c-5zo .after-GZV {
+  width: 150rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #9ca8b7;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb {
+  margin: 0rem 75.6rem 19.919rem 69.7rem;
+  box-sizing: border-box;
+  padding-bottom: 0.115rem;
+  width: calc(100% - 145.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B {
+  margin-bottom: 10.1141rem;
+  width: 100%;
+  height: 67.859rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 {
+  margin-right: 10rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .cbbuvvl8jiafc6aldi61pusl1qmjpg-AKR {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 108.378% 100%;
+  background-position: -3.0162rem 0;
+  background-image: url('../assets/cbbuvvl8jiafc6aldi61pusl1qmjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .divframer-lap9sr-QjZ {
+  width: 59.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .divframer-lap9sr-QjZ .how-smartphones-changed-gamified-marketing-forever-k2j {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .divframer-lap9sr-QjZ .auto-group-tkcw-FkB {
+  box-sizing: border-box;
+  padding-top: 1.0401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .divframer-lap9sr-QjZ .auto-group-tkcw-FkB .apr-2-2023-oFu {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Df5 .divframer-lap9sr-QjZ .auto-group-tkcw-FkB .neil-burmester-upj {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .fam6wyudxupxxp2fpi0zuscfcjpg-ntX {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/fam6wyudxupxxp2fpi0zuscfcjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .divframer-lap9sr-GYo {
+  width: 67.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .divframer-lap9sr-GYo .savvy-ways-to-spend-leftover-gamification-marketing-budget-Quu {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .divframer-lap9sr-GYo .auto-group-czrh-vNT {
+  box-sizing: border-box;
+  padding-top: 1.0401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .divframer-lap9sr-GYo .auto-group-czrh-vNT .mar-19-2023-Etw {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-3hef-T8B .link-Ec7 .divframer-lap9sr-GYo .auto-group-czrh-vNT .matt-sanasi-NVM {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy {
+  margin-bottom: 10.1141rem;
+  width: 100%;
+  height: 67.86rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf {
+  margin-right: 10rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .nfcsdmfaeeb8248tcslhekdyo0jpg-yk3 {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/nfcsdmfaeeb8248tcslhekdyo0jpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .divframer-lap9sr-roq {
+  width: 36.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .divframer-lap9sr-roq .signs-that-gamification-is-for-you-D8b {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .divframer-lap9sr-roq .auto-group-sl4f-jcj {
+  box-sizing: border-box;
+  padding-top: 1.0411rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .divframer-lap9sr-roq .auto-group-sl4f-jcj .mar-5-2023-gns {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-EGf .divframer-lap9sr-roq .auto-group-sl4f-jcj .matt-sanasi-DXu {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .m9jizpgi5fjelmzojykuqrm12oyjpg-6bh {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/m9jizpgi5fjelmzojykuqrm12oyjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .divframer-lap9sr-yQb {
+  width: 48.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .divframer-lap9sr-yQb .where-will-gamification-be-1-year-from-now-id5 {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .divframer-lap9sr-yQb .auto-group-uxlw-SZ5 {
+  box-sizing: border-box;
+  padding-top: 1.0411rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .divframer-lap9sr-yQb .auto-group-uxlw-SZ5 .feb-12-2023-ncw {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hesj-VZy .link-LsR .divframer-lap9sr-yQb .auto-group-uxlw-SZ5 .mitchell-denton-uBm {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf {
+  margin-bottom: 10.1139rem;
+  width: 100%;
+  height: 67.859rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP {
+  margin-right: 10rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .wya5i5ku8qjehmjmtn4kdemdnqwjpg-XD9 {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/wya5i5ku8qjehmjmtn4kdemdnqwjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .divframer-lap9sr-cEb {
+  width: 50.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .divframer-lap9sr-cEb .gamified-apps-that-will-make-you-rethink-ux-x3Z {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .divframer-lap9sr-cEb .auto-group-dx2f-5P5 {
+  box-sizing: border-box;
+  padding-top: 1.0401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .divframer-lap9sr-cEb .auto-group-dx2f-5P5 .nov-27-2022-pbZ {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-AtP .divframer-lap9sr-cEb .auto-group-dx2f-5P5 .mitchell-denton-9tj {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .gngdsbrrwnlrws2jjbxqi71owjpg-eab {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 138.041% 100%;
+  background-position: -13.6949rem 0;
+  background-image: url('../assets/gngdsbrrwnlrws2jjbxqi71owjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .divframer-lap9sr-jM9 {
+  width: 42.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .divframer-lap9sr-jM9 .game-based-marketing-a-book-review-5vo {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .divframer-lap9sr-jM9 .auto-group-pxtf-1pT {
+  box-sizing: border-box;
+  padding-top: 1.0401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .divframer-lap9sr-jM9 .auto-group-pxtf-1pT .nov-13-2022-xjh {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-hfaw-dNf .link-tbR .divframer-lap9sr-jM9 .auto-group-pxtf-1pT .mitchell-denton-65D {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu {
+  margin-bottom: 10.1141rem;
+  width: 100%;
+  height: 67.86rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq {
+  margin-right: 10rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .pqs0t35wvutbzh6c0yaeqkzgdajpg-uoM {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/pqs0t35wvutbzh6c0yaeqkzgdajpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .divframer-lap9sr-ns9 {
+  width: 46.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .divframer-lap9sr-ns9 .gamification-marketing-the-pros-and-cons-Ldm {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .divframer-lap9sr-ns9 .auto-group-bym5-GGX {
+  box-sizing: border-box;
+  padding-top: 1.0411rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .divframer-lap9sr-ns9 .auto-group-bym5-GGX .oct-30-2022-Cvs {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-Mmq .divframer-lap9sr-ns9 .auto-group-bym5-GGX .neil-burmester-XTM {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .q96qeimrbsmng7nybwrgumbjujpg-Db5 {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/q96qeimrbsmng7nybwrgumbjujpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .divframer-lap9sr-J6j {
+  width: 33.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .divframer-lap9sr-J6j .apps-that-master-gamification-eRV {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .divframer-lap9sr-J6j .auto-group-jnb1-BAX {
+  box-sizing: border-box;
+  padding-top: 1.0411rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .divframer-lap9sr-J6j .auto-group-jnb1-BAX .oct-16-2022-iw9 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-jtax-pmu .link-4CP .divframer-lap9sr-J6j .auto-group-jnb1-BAX .matt-sanasi-f5h {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP {
+  width: 100%;
+  height: 70.585rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd {
+  margin-right: 10rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .nx7x5zcqjhjshzlwlktw2kiidcjpg-h2P {
+  margin-bottom: 3.7719rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/nx7x5zcqjhjshzlwlktw2kiidcjpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .divframer-lap9sr-xU7 {
+  width: 47.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .divframer-lap9sr-xU7 .how-qr-codes-have-transformed-marketing-ueF {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .divframer-lap9sr-xU7 .auto-group-swgj-daF {
+  box-sizing: border-box;
+  padding-top: 1.0401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .divframer-lap9sr-xU7 .auto-group-swgj-daF .oct-2-2022-yu1 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-Lhd .divframer-lap9sr-xU7 .auto-group-swgj-daF .mitchell-denton-iLo {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .qxtr50jpoh9wqchlzdscgfrmzk4jpg-o7M {
+  margin-bottom: 3.783rem;
+  width: 72rem;
+  height: 52.047rem;
+  position: relative;
+  background-size: 128.511% 100%;
+  background-position: -10.264rem 0;
+  background-image: url('../assets/qxtr50jpoh9wqchlzdscgfrmzk4jpg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .divframer-lap9sr-5af {
+  width: 70.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .divframer-lap9sr-5af .the-relationship-between-consumer-behavior-and-gamification-in-marketing-dcB {
+  max-width: 70.8rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2400000312;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .divframer-lap9sr-5af .auto-group-1lzm-jfD {
+  box-sizing: border-box;
+  padding-top: 1.055rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .divframer-lap9sr-5af .auto-group-1lzm-jfD .sep-18-2022-5yy {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-19zdfma-ZYb .auto-group-yggp-PnP .link-3P5 .divframer-lap9sr-5af .auto-group-1lzm-jfD .josh-dunford-1cj {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #999999;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-7mikdk-Y6s {
+  margin: 0rem 69.6rem 0rem 69.7rem;
+  box-sizing: border-box;
+  padding: 9rem 63.093rem 9rem 63.307rem;
+  width: calc(100% - 139.3rem);
+  height: 31rem;
+  background-color: #f8f8f8;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-7mikdk-Y6s .divframer-1a8p1rg-dPD {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-7mikdk-Y6s .divframer-1a8p1rg-dPD .stay-up-to-date-Nrb {
+  margin-bottom: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.21rem;
+  color: #001122;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .divframer-7mikdk-Y6s .divframer-1a8p1rg-dPD .button-5m1 {
+  margin: 0rem 10.809rem 0rem 10.593rem;
+  width: calc(100% - 21.402rem);
+  height: 4rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2000000477;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7931e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM {
+  margin: 0rem 69.6rem 0rem 69.7rem;
+  width: calc(100% - 139.3rem);
+  height: 40.7rem;
+  position: relative;
+  background-color: rgba(238, 43, 0, 0.9333333373);
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 {
+  width: 93.8rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 31rem;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu {
+  box-sizing: border-box;
+  padding-right: 11.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh {
+  margin-right: 13.3rem;
+  width: 10.4rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .product-oD9 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .divframer-pdb21q-KxB {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .divframer-pdb21q-KxB .auto-group-fr4j-gGw {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .divframer-pdb21q-KxB .auto-group-fr4j-gGw .link-game-library-pe3 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .divframer-pdb21q-KxB .auto-group-fr4j-gGw .link-help-centre-jW7 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-hlr9m1-roh .divframer-pdb21q-KxB .link-make-a-game-f8s {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM {
+  margin-right: 8.6rem;
+  width: 15.6rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .learn-82T {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 .link-video-resources-1M9 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 .link-what-is-gamification-8As {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 .auto-group-npsz-FmH {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 .auto-group-npsz-FmH .link-case-studies-CwR {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-1ndkbvi-yfM .divframer-z78be-rz3 .auto-group-npsz-FmH .link-blog-Xio {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV {
+  width: 9.1rem;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .support-phu {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .divframer-1e0nvuu-y51 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .divframer-1e0nvuu-y51 .auto-group-orsm-8Co {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .divframer-1e0nvuu-y51 .auto-group-orsm-8Co .link-about-us-fyR {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .divframer-1e0nvuu-y51 .auto-group-orsm-8Co .link-contact-us-CCf {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .auto-group-1wvf-8Mu .divframer-o0uilp-GRV .divframer-1e0nvuu-y51 .link-help-centre-Ko5 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b {
+  width: 25.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .top-articles-QZd {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .auto-group-kitp-hod {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .auto-group-kitp-hod .link-advergaming-F4T {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .auto-group-kitp-hod .link-gamification-marketing-z23 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .auto-group-kitp-hod .link-game-marketing-ueo {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .auto-group-kitp-hod .link-gamification-qoM {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-1yzb8x0-dg3 .divframer-faa0jr-T8b .divframer-19aelvq-k7h .link-successful-marketing-campaigns-aF9 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 31rem;
+  top: 31.9rem;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .gamify-all-rights-reserved-privacy-policy-cSj {
+  width: 35.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.44rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2000000293;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 {
+  box-sizing: border-box;
+  padding: 0.233rem 0.18rem 0.233rem 0.35rem;
+  width: 25.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-ZFV {
+  margin: 0rem 1.53rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-5Dq {
+  margin: 0.116rem 1.413rem 0rem 0rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-PVR {
+  margin-right: 1.5833rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-JsH {
+  margin: 0rem 1.583rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-Ekw {
+  margin-right: 1.4667rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-mks {
+  margin-right: 1.413rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .divframer-uvzujr-container-tf9 .link-svg-WiT {
+  margin-top: 0.1164rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .divframer-iitih6-6UP .after-EuM {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+
+.desktop-6-3Nf .blog-Kqy .footer-KfM .after-NEs {
+  width: 160rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0500000007);
+  box-sizing: border-box;
+}

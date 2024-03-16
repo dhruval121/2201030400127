@@ -1,0 +1,786 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 270.1rem;
+}.desktop-1-iYo {
+  box-sizing: border-box;
+  padding-top: 12.2rem;
+  width: 100%;
+  height: 292.7rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-1-iYo .dashboard-Szb {
+  box-sizing: border-box;
+  padding: 0rem 0rem 15.6rem 20.1rem;
+  width: 278.2rem;
+  height: 296.1rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb {
+  margin: 0rem 42.6rem 0rem 39rem;
+  width: calc(100% - 81.6rem);
+  height: 8rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.0860000029), 0 0.2289rem 0.2289rem rgba(0, 0, 0, 0.1449999958), 0 0.0602rem 0.0602rem rgba(0, 0, 0, 0.1570000052);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .pframer-text-3jV {
+  width: 26.333rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 81.119rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .pframer-text-i4w {
+  width: 21.713rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 94.252rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .pframer-text-BDR {
+  width: 26.211rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 102.764rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .pframer-text-TRq {
+  width: 31.863rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 115.775rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #2996f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .pframer-text-x7h {
+  width: 19.777rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.438rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .link-DpK {
+  width: 13.986rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 149.314rem;
+  top: 2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1999999455;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.0500000007), 0 1.3647rem 1.3647rem rgba(0, 0, 0, 0.1059999987), 0 0.6866rem 0.6866rem rgba(0, 0, 0, 0.125), 0 0.3622rem 0.3622rem rgba(0, 0, 0, 0.1369999945), 0 0.1807rem 0.1807rem rgba(0, 0, 0, 0.1449999958), 0 0.0707rem 0.0707rem rgba(0, 0, 0, 0.150000006);
+  background-color: #f7931e;
+  border-radius: 0.5rem;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-m7zs3h-kEb .after-M3M {
+  width: 176.5rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb {
+  margin-bottom: 0.008rem;
+  box-sizing: border-box;
+  padding: 13rem 8rem 12.992rem 8rem;
+  width: 100%;
+  height: 70.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ee2a00;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .divframer-l98v05-gE3 {
+  margin: 9.914rem 23.8rem 9.916rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 0.0001rem;
+  width: 41rem;
+  height: calc(100% - 19.83rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .divframer-l98v05-gE3 .what-is-gamification-yD9 {
+  margin-bottom: 1.5331rem;
+  max-width: 34.2rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.2000000565;
+  letter-spacing: -0.2rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .divframer-l98v05-gE3 .gamification-with-dr-zachary-fitz-walter-4Eb {
+  margin-bottom: 3.3689rem;
+  display: flex;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2000000363;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .divframer-l98v05-gE3 .divframer-18fus0l-NWB {
+  width: 25.42rem;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .divframer-l98v05-gE3 .divframer-18fus0l-NWB .link-iK9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7931e;
+  border-radius: 0.5rem;
+}
+.desktop-1-iYo .dashboard-Szb .divframer-igcazs-bCb .article-1Z9 {
+  width: 177.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh {
+  width: 270.9rem;
+  height: 201.992rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1vpc604-gQP {
+  box-sizing: border-box;
+  padding: 7.95rem 21.74rem 8.05rem 21.76rem;
+  width: 160rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1vpc604-gQP .heading-1-gamification-is-the-addition-of-game-elements-to-non-game-zAB {
+  max-width: 116.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 {
+  box-sizing: border-box;
+  padding: 6.7rem 55.4rem 14.3rem 55.5rem;
+  width: 270.9rem;
+  height: 176.4rem;
+  position: absolute;
+  left: 0;
+  top: 25.592rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 {
+  margin: 0rem 42.4rem 27.9rem 0rem;
+  width: 100rem;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559 {
+  margin-bottom: 1.4rem;
+  max-width: 96.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559-sub-0 {
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  font-style: italic;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559 .whats-interesting-is-that-gamification-is-not-a-new-concept-while-the-term-may-have-been-coined-in-more-recent-times-the-concept-has-existed-in-many-areas-of-life-for-as-long-as-civilisation-has-existed-if-you-remember-watching-mary-poppins-she-sums-up-gamification-quite-nicely-with-the-quote-in-every-job-that-must-be-done-there-is-an-element-of-fun-you-find-the-fun-and-snap-the-jobs-a-game-559-sub-2 {
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .she-was-onto-something-here-mary-poppins-knew-all-the-way-back-in-the-1960s-that-anything-could-be-turned-into-a-fun-activity-by-making-it-into-a-game-there-were-prominent-examples-of-gamification-existing-even-earlier-than-mary-poppins-however-LBR {
+  max-width: 100rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .back-in-the-early-1900s-if-you-were-a-boy-scout-you-could-obtain-real-badges-and-ranks-a-tradition-that-is-still-carried-out-today-however-as-video-games-started-to-take-off-we-saw-educational-video-games-then-become-popular-in-the-1970s-and-80s-you-may-remember-such-games-as-where-in-the-world-is-carmen-san-diego-reader-rabbit-and-math-blaster-these-games-were-forms-of-entertainment-that-were-built-for-serious-purposes-to-educate-players-uNw {
+  max-width: 99.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .link-foursquare-cgf {
+  margin-bottom: 1.4rem;
+  max-width: 98.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3 {
+  margin-bottom: 1.4rem;
+  max-width: 98.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3 .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3-sub-0 {
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3 .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  font-style: italic;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3 .if-you-checked-into-a-place-more-than-anyone-else-you-became-the-foursquare-mayor-of-that-location-this-user-experience-felt-like-a-game-and-it-was-a-lot-of-fun-to-use-foursquare-became-a-popular-example-of-an-app-increasing-user-engagement-through-loyalty-program-gamification-Wn3-sub-2 {
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .whats-interesting-though-was-that-the-game-elements-they-used-started-to-appear-in-many-different-other-applications-and-websites-this-may-have-contributed-to-these-game-elements-becoming-a-popular-way-to-add-gamification-qrF {
+  margin-bottom: 1.4rem;
+  max-width: 97.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .divframer-hpmuq9-M99 .auto-group-tcek-m1q .these-days-were-seeing-more-and-more-serious-games-in-gamification-partly-because-video-games-have-become-mainstream-and-as-well-smartphones-have-made-it-incredibly-easy-to-play-games-anywhere-at-any-time-UPR {
+  max-width: 98.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy {
+  width: 100%;
+  height: 40.7rem;
+  position: relative;
+  background-color: #ee2a00;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM {
+  width: 93.8rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 31rem;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb {
+  box-sizing: border-box;
+  padding-right: 11.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f {
+  margin-right: 13.3rem;
+  width: 10.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .product-T8s {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .divframer-pdb21q-ysu {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .divframer-pdb21q-ysu .auto-group-ntum-YAK {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .divframer-pdb21q-ysu .auto-group-ntum-YAK .link-game-library-5AF {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .divframer-pdb21q-ysu .auto-group-ntum-YAK .link-help-centre-b8b {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-hlr9m1-K2f .divframer-pdb21q-ysu .link-make-a-game-hhR {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w {
+  margin-right: 8.6rem;
+  width: 15.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .learn-ZzX {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT .link-video-resources-Ta7 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT .link-what-is-gamification-BW7 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT .auto-group-kvwv-iF9 {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT .auto-group-kvwv-iF9 .link-case-studies-G1m {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-1ndkbvi-q2w .divframer-z78be-6zT .auto-group-kvwv-iF9 .link-blog-BeX {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb {
+  width: 9.1rem;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .support-F8b {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .divframer-1e0nvuu-Nyu {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .divframer-1e0nvuu-Nyu .auto-group-1jl3-8TH {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .divframer-1e0nvuu-Nyu .auto-group-1jl3-8TH .link-about-us-U1M {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .divframer-1e0nvuu-Nyu .auto-group-1jl3-8TH .link-contact-us-BgT {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .auto-group-teqd-yUb .divframer-o0uilp-6Wb .divframer-1e0nvuu-Nyu .link-help-centre-v8F {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 {
+  width: 25.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .top-articles-zto {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .auto-group-v1ap-VKm {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .auto-group-v1ap-VKm .link-advergaming-EHM {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .auto-group-v1ap-VKm .link-gamification-marketing-mo5 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .auto-group-v1ap-VKm .link-game-marketing-WEs {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .auto-group-v1ap-VKm .link-gamification-qH9 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-1yzb8x0-TFM .divframer-faa0jr-eK9 .divframer-19aelvq-LBy .link-successful-marketing-campaigns-y8T {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 31rem;
+  top: 31.9rem;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .gamify-all-rights-reserved-privacy-policy-cx7 {
+  width: 35.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.44rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2000000293;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 {
+  box-sizing: border-box;
+  padding: 0.233rem 0.18rem 0.233rem 0.35rem;
+  width: 25.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-a1m {
+  margin: 0rem 1.53rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-gKh {
+  margin: 0.116rem 1.413rem 0rem 0rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-o9R {
+  margin-right: 1.5834rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-wFd {
+  margin: 0rem 1.583rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-rNb {
+  margin-right: 1.4667rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-yi7 {
+  margin-right: 1.4131rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .divframer-uvzujr-container-Ja3 .link-svg-ivb {
+  margin-top: 0.1164rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .divframer-iitih6-h4T .after-T7V {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.desktop-1-iYo .dashboard-Szb .auto-group-uba7-whh .divframer-1fl2dl4-FM1 .footer-hmy .after-y5q {
+  width: 160rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0500000007);
+  box-sizing: border-box;
+}

@@ -1,0 +1,1710 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 250.6rem;
+}.desktop-3-7Us {
+  box-sizing: border-box;
+  padding: 31.1rem 0rem 11.8rem 0rem;
+  width: 100%;
+  height: 589.9rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-3-7Us .game-library--N9u {
+  box-sizing: border-box;
+  padding: 0 16.9rem;
+  width: 225.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM {
+  margin: 0 16rem;
+  width: calc(100% - 32rem);
+  height: 8rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.0860000029), 0 0.2289rem 0.2289rem rgba(0, 0, 0, 0.1449999958), 0 0.0602rem 0.0602rem rgba(0, 0, 0, 0.1570000052);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-N3R {
+  width: 9.9rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 81.119rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-nN3 {
+  width: 5.3rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 94.252rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-r71 {
+  width: 9.8rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 102.764rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-vsZ {
+  width: 15.4rem;
+  height: 2.4089rem;
+  cursor: pointer;
+  position: absolute;
+  left: 115.775rem;
+  top: 2.71rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #2996f5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-R3d {
+  width: 23.548rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.438rem;
+  top: 1.9rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-R3d .link-blog-7h9 {
+  margin: 0rem 6.262rem 0.08rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5999999728;
+  letter-spacing: 0.056rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .pframer-text-R3d .link-zW3 {
+  width: 13.986rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1999999455;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.0500000007), 0 1.3647rem 1.3647rem rgba(0, 0, 0, 0.1059999987), 0 0.6866rem 0.6866rem rgba(0, 0, 0, 0.125), 0 0.3622rem 0.3622rem rgba(0, 0, 0, 0.1369999945), 0 0.1807rem 0.1807rem rgba(0, 0, 0, 0.1449999958), 0 0.0707rem 0.0707rem rgba(0, 0, 0, 0.150000006);
+  background-color: #f7931e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-m7zs3h-TBM .after-XPV {
+  width: 160rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+}
+.desktop-3-7Us .game-library--N9u .divframer-mpb622-NQ7 {
+  margin: 0 16rem;
+  box-sizing: border-box;
+  padding: 23.75rem 8rem;
+  width: calc(100% - 32rem);
+  height: 60rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ee2a00;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-mpb622-NQ7 .divframer-h61q7y-65D {
+  width: 38.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.desktop-3-7Us .game-library--N9u .divframer-mpb622-NQ7 .divframer-h61q7y-65D .game-library-pmu {
+  margin-bottom: 1.5296rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 700;
+  line-height: 1.2000000565;
+  letter-spacing: -0.2rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .divframer-mpb622-NQ7 .divframer-h61q7y-65D .video-games-we-can-create-for-you-take-them-for-a-test-drive-6zK {
+  max-width: 37.4rem;
+  display: flex;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.2000000363;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP {
+  margin: 0 16rem;
+  width: calc(100% - 32rem);
+  height: 19.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm {
+  width: 87.5rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 36.25rem;
+  top: 4.55rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-k7pm-2mV {
+  box-sizing: border-box;
+  padding: 1.95rem 4.9rem 1.95rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-k7pm-2mV .mfobkmcpd5ndurqetlpdlwqieupng-kBh {
+  margin-bottom: 0.0009rem;
+  width: 10.1rem;
+  height: 5.405rem;
+  position: relative;
+  background-size: 82.035% 100%;
+  background-position: 0.9072rem 0;
+  background-image: url('../assets/mfobkmcpd5ndurqetlpdlwqieupng.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-k7pm-2mV .c2tqy5ef19inqiamvxuwzffepng-DUb {
+  width: 13rem;
+  height: 6.8rem;
+  position: relative;
+  background-size: 87.236% 100%;
+  background-position: 0.8296rem 0;
+  background-image: url('../assets/c2tqy5ef19inqiamvxuwzffepng.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-k7pm-2mV .lvssumfeya9rjionyy6klkl8png-WCo {
+  width: 9.5rem;
+  height: 6.8rem;
+  position: relative;
+  background-size: 82.591% 100%;
+  background-image: url('../assets/lvssumfeya9rjionyy6klkl8png.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .n5yo1xwg60jk9zl2qqnraaofyfipng-bk3 {
+  width: 11.2rem;
+  height: 10.7rem;
+  position: relative;
+  background-size: 95.536% 100%;
+  background-position: 0.25rem 0;
+  background-image: url('../assets/n5yo1xwg60jk9zl2qqnraaofyfipng.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-xr99-tUF {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 4.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-xr99-tUF .ss3zu7mqaynnkxcdmyillmpng-By9 {
+  margin-right: 4.9rem;
+  width: 10.2rem;
+  height: 7.9rem;
+  position: relative;
+  background-size: 77.451% 100%;
+  background-image: url('../assets/ss3zu7mqaynnkxcdmyillmpng.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .divframer-1sd8m8d-uwm .auto-group-xr99-tUF .t9xgbanqfarboyxpbrlapoj34b4png-FTD {
+  width: 9rem;
+  height: 7.9rem;
+  position: relative;
+  background-size: 100% 32.709%;
+  background-image: url('../assets/t9xgbanqfarboyxpbrlapoj34b4png.png');
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-s91sgr-bAP .after-hq1 {
+  width: 160rem;
+  height: 19.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #9ca8b7;
+  box-sizing: border-box;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq {
+  margin: 0 16rem;
+  box-sizing: border-box;
+  padding: 7.45rem 31.781rem 6.15rem 31.819rem;
+  width: calc(100% - 32rem);
+  height: 30.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .do-you-have-an-upcoming-campaign-that-could-be-enhanced-through-gamification-bJ7 {
+  margin: 0rem 0rem 3.3rem 0.03rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .do-you-have-an-upcoming-campaign-that-could-be-enhanced-through-gamification-bJ7 .do-you-have-an-upcoming-campaign-that-could-be-enhanced-through-gamification-bJ7-sub-0 {
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .do-you-have-an-upcoming-campaign-that-could-be-enhanced-through-gamification-bJ7 .do-you-have-an-upcoming-campaign-that-could-be-enhanced-through-gamification-bJ7-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.05rem;
+  color: #007fee;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .heading-2-swm {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .heading-2-swm .read-up-on-the-history-of-our-game-templates-by-our-awesome-team-and-their-proven-target-23y {
+  margin-right: 0.0009rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .heading-2-swm .markets-demographics-along-with-playing-any-of-the-available-games-in-the-library-in-order-to-6pX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .divframer-1uvazth-Phq .divframer-1vwwlkv-f9Z .heading-2-swm .help-you-gain-an-understanding-of-which-game-would-work-best-for-your-next-marketing-push-BLB {
+  margin-left: 0.0158rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.05rem;
+  color: #888888;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q {
+  width: 100%;
+  height: 432.109rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP {
+  box-sizing: border-box;
+  padding: 10rem 46rem 10.05rem 46rem;
+  width: 192rem;
+  height: 391.409rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-9b3au7-3v7 {
+  margin: 0rem 6rem 0.001rem 0rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-9b3au7-3v7 .d7fyhepl6wxd2anykgpf3pojmqijpg-NBh {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/d7fyhepl6wxd2anykgpf3pojmqijpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-9b3au7-3v7 .ginger-ninja-FFV {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-yynipg-jwM {
+  margin-bottom: 0.001rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-yynipg-jwM .hgzwueaowce3n7lwixql0ammoujpg-gLo {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/hgzwueaowce3n7lwixql0ammoujpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .auto-group-544x-KUK .divframer-yynipg-jwM .letters-y51 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .divframer-7s8scg-HrP {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .divframer-7s8scg-HrP .m2nl8mij9gidmj2jghiz1v8kmjpg-dvF {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/m2nl8mij9gidmj2jghiz1v8kmjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-vnsh-zgw .divframer-7s8scg-HrP .bowl-o-rama-iRu {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.885rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-fp01cc-6xF {
+  margin: 0rem 6rem 0.002rem 0rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-fp01cc-6xF .ppymjyede0xgc2wrfjgjezxghijpg-ptF {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/ppymjyede0xgc2wrfjgjezxghijpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-fp01cc-6xF .desk-menace-7cT {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-15iaak3-Cto {
+  margin-bottom: 0.002rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-15iaak3-Cto .vyt2p1aivmmxlc8idg44w2m6gijpg-YSs {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/vyt2p1aivmmxlc8idg44w2m6gijpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .auto-group-pudz-ktP .divframer-15iaak3-Cto .dunk-shot-p9V {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .divframer-673yc4-Y5V {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .divframer-673yc4-Y5V .rbjaocrhsyvkkv36455fsbt0r0jpg-671 {
+  margin-bottom: 2.951rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/rbjaocrhsyvkkv36455fsbt0r0jpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-8qnb-qFd .divframer-673yc4-Y5V .filled-glass-B8T {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1edn977-ya7 {
+  margin: 0rem 6rem 0.001rem 0rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1edn977-ya7 .nr5joyb09bkvvx3psb1oflar3zijpg-WK9 {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/nr5joyb09bkvvx3psb1oflar3zijpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1edn977-ya7 .flapcat-PNw {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1vdbem4-v7y {
+  margin-bottom: 0.001rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1vdbem4-v7y .xbiglfzfetylrw546ctnx3lpf0jpg-fLT {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/xbiglfzfetylrw546ctnx3lpf0jpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .auto-group-9bqh-RoV .divframer-1vdbem4-v7y .fruit-master-wom {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .divframer-1wcol68-sSX {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .divframer-1wcol68-sSX .snwl9ozil9zaruirrhxo8klfefgjpg-dAo {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8778rem 0;
+  background-image: url('../assets/snwl9ozil9zaruirrhxo8klfefgjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-7hzo-6WK .divframer-1wcol68-sSX .fruit-chef-7bm {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq {
+  margin-bottom: 6.0502rem;
+  width: 100%;
+  height: 35.885rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1fhomyb-uXd {
+  margin: 0rem 6rem 0.002rem 0rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1fhomyb-uXd .fdeufgacbc926o9hcumbrllcyzkjpg-cwq {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.32% 100%;
+  background-image: url('../assets/fdeufgacbc926o9hcumbrllcyzkjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1fhomyb-uXd .solitaire-WnK {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1ysny2s-SAB {
+  margin-bottom: 0.002rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1ysny2s-SAB .wbzbtxgip8ncnra06p1a2mishyqjpg-nE3 {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/wbzbtxgip8ncnra06p1a2mishyqjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .auto-group-eslj-xsH .divframer-1ysny2s-SAB .glass-glow-en3 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .divframer-1mpa80n-BGB {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .divframer-1mpa80n-BGB .z0pc0wvvpgsr9mabuxaeyitgukjpg-L95 {
+  margin-bottom: 2.951rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8778rem 0;
+  background-image: url('../assets/z0pc0wvvpgsr9mabuxaeyitgukjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-sa6j-2Tq .divframer-1mpa80n-BGB .aerial-flight-DCs {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-1a3rw96-cF1 {
+  margin: 0rem 6rem 0.002rem 0rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-1a3rw96-cF1 .uhj2crinmdai9wjweghq4bpqyw0jpg-8j9 {
+  margin-bottom: 2.949rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/uhj2crinmdai9wjweghq4bpqyw0jpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-1a3rw96-cF1 .flipper-q7m {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-c1qgsb-jU3 {
+  margin-bottom: 0.002rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-c1qgsb-jU3 .gidxebm70frzynvpbpdkmgw6hzqjpg-FSP {
+  margin-bottom: 2.949rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/gidxebm70frzynvpbpdkmgw6hzqjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .auto-group-dl7q-GB9 .divframer-c1qgsb-jU3 .hop-jump-WNK {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .divframer-ts4i1e-CW3 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .divframer-ts4i1e-CW3 .dupebihdjfeap9ppmxcupdss0ijpg-wCj {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8778rem 0;
+  background-image: url('../assets/dupebihdjfeap9ppmxcupdss0ijpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-yrwf-vsy .divframer-ts4i1e-CW3 .greedy-rabbit-cZm {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-u62zkn-CXy {
+  margin: 0rem 6rem 0.001rem 0rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-u62zkn-CXy .wjpusrv0rioymjltc6p36rpqc94png-vis {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 150.147% 100%;
+  background-image: url('../assets/wjpusrv0rioymjltc6p36rpqc94png.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-u62zkn-CXy .jumper-frog-2X1 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-1vwg4o0-YkF {
+  margin-bottom: 0.001rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-1vwg4o0-YkF .mymbumzlnltsxza1rkaa9p6dzsjpg-grT {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/mymbumzlnltsxza1rkaa9p6dzsjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .auto-group-ccpf-Fcj .divframer-1vwg4o0-YkF .ten-krK {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .divframer-1unjwpc-svw {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .divframer-1unjwpc-svw .b8fweyddwadeggi2duqaw9iffgjpg-EWb {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/b8fweyddwadeggi2duqaw9iffgjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-jhcb-vqM .divframer-1unjwpc-svw .swipe-balls-jCT {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.885rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-1ea687p-hYb {
+  margin: 0rem 6rem 0.002rem 0rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-1ea687p-hYb .h0sbbjm8pkyepkwwngmm99btscjpg-Qxo {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/h0sbbjm8pkyepkwwngmm99btscjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-1ea687p-hYb .stick-soldier-gvK {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-sdu5ik-D9Z {
+  margin-bottom: 0.002rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-sdu5ik-D9Z .cp8xyvthupq79lq4a5hriljekajpg-wrF {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/cp8xyvthupq79lq4a5hriljekajpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .auto-group-eghd-nwR .divframer-sdu5ik-D9Z .scratch-n-win-dUB {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .divframer-1vtcn9-jGK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .divframer-1vtcn9-jGK .s1shuhp5d5foqscgycfl3r8tr3wjpg-H2w {
+  margin-bottom: 2.951rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/s1shuhp5d5foqscgycfl3r8tr3wjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-1xwq-rXy .divframer-1vtcn9-jGK .pop-shots-Zm9 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm {
+  margin-bottom: 6.05rem;
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-1v36jqw-y4B {
+  margin: 0rem 6rem 0.002rem 0rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-1v36jqw-y4B .urngc8homwtnnxab7dfhvslmgiajpg-HqZ {
+  margin-bottom: 2.949rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/urngc8homwtnnxab7dfhvslmgiajpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-1v36jqw-y4B .pumpkin-smasher-apf {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-pecxh4-Jkf {
+  margin-bottom: 0.002rem;
+  height: calc(100% - 0.002rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-pecxh4-Jkf .xigu0vbfglu7ua6o4e3giy0pywjpg-eZd {
+  margin-bottom: 2.949rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/xigu0vbfglu7ua6o4e3giy0pywjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .auto-group-cjuj-dFD .divframer-pecxh4-Jkf .football-free-kicks-LhM {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .divframer-1u20a7h-TX5 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .divframer-1u20a7h-TX5 .pomcraozzml3fzwp46b3uinermpng-p6j {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 138.378% 100%;
+  background-image: url('../assets/pomcraozzml3fzwp46b3uinermpng.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-hdrh-gqm .divframer-1u20a7h-TX5 .aliens-attack-Vif {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV {
+  width: 100%;
+  height: 35.884rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 {
+  box-sizing: border-box;
+  padding-right: 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-17xi17i-hpj {
+  margin: 0rem 6rem 0.001rem 0rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-17xi17i-hpj .uyizffqgoyf1ohugar7akbxwq4jpg-S1d {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 167.347% 100%;
+  background-position: -9.8774rem 0;
+  background-image: url('../assets/uyizffqgoyf1ohugar7akbxwq4jpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-17xi17i-hpj .knife-ninja-WGP {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-1kzcwmi-ReF {
+  margin-bottom: 0.001rem;
+  height: calc(100% - 0.001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-1kzcwmi-ReF .cvezeiuzxrc2vzqu95f7g8l9u8jpg-ZEf {
+  margin-bottom: 2.95rem;
+  width: 29.333rem;
+  height: 29.333rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/cvezeiuzxrc2vzqu95f7g8l9u8jpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .auto-group-urrb-A47 .divframer-1kzcwmi-ReF .candy-monster-3fd {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .divframer-7l0h9x-6vj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .divframer-7l0h9x-6vj .indbckfwr05txuicasif7gsg5bmjpg-ehM {
+  margin-bottom: 2.95rem;
+  width: 29.334rem;
+  height: 29.334rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/indbckfwr05txuicasif7gsg5bmjpg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .divframer-19qzex3-mJP .divframer-luhli5-gAT .auto-group-zatz-cHV .divframer-7l0h9x-6vj .astro-dog-M5y {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.08rem;
+  color: #333333;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 {
+  width: 160rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 16rem;
+  top: 391.409rem;
+  background-color: #ee2a00;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD {
+  width: 93.8rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 31rem;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM {
+  box-sizing: border-box;
+  padding-right: 11.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris {
+  margin-right: 13.3rem;
+  width: 10.4rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .product-o8K {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .divframer-pdb21q-vCw {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .divframer-pdb21q-vCw .auto-group-uuxb-fwD {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .divframer-pdb21q-vCw .auto-group-uuxb-fwD .link-game-library-cbZ {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .divframer-pdb21q-vCw .auto-group-uuxb-fwD .link-help-centre-KF5 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-hlr9m1-ris .divframer-pdb21q-vCw .link-make-a-game-SqV {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX {
+  margin-right: 8.6rem;
+  width: 15.6rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .learn-KeP {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q .link-video-resources-231 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q .link-what-is-gamification-LpP {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q .auto-group-hwh5-Gxw {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q .auto-group-hwh5-Gxw .link-case-studies-cX1 {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-1ndkbvi-yaX .divframer-z78be-G3q .auto-group-hwh5-Gxw .link-blog-Y9m {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ {
+  width: 9.1rem;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .support-RUT {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .divframer-1e0nvuu-N8o {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .divframer-1e0nvuu-N8o .auto-group-ew4o-iTZ {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .divframer-1e0nvuu-N8o .auto-group-ew4o-iTZ .link-about-us-4XR {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .divframer-1e0nvuu-N8o .auto-group-ew4o-iTZ .link-contact-us-Brw {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .auto-group-vefz-jPM .divframer-o0uilp-GbZ .divframer-1e0nvuu-N8o .link-help-centre-KiF {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro {
+  width: 25.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .top-articles-Cn3 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .auto-group-nprr-6Md {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .auto-group-nprr-6Md .link-advergaming-Dh9 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .auto-group-nprr-6Md .link-gamification-marketing-xej {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .auto-group-nprr-6Md .link-game-marketing-6F9 {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .auto-group-nprr-6Md .link-gamification-EMM {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-1yzb8x0-CuD .divframer-faa0jr-Fro .divframer-19aelvq-9BV .link-successful-marketing-campaigns-yJw {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 31rem;
+  top: 31.9rem;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .gamify-all-rights-reserved-privacy-policy-Qf9 {
+  width: 35.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.4409rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2000000293;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm {
+  box-sizing: border-box;
+  padding: 0.233rem 0.18rem 0.233rem 0.35rem;
+  width: 25.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-KQj {
+  margin: 0rem 1.53rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-RCs {
+  margin: 0.116rem 1.413rem 0rem 0rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-Xmh {
+  margin-right: 1.5833rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-4Fq {
+  margin: 0rem 1.583rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-ajy {
+  margin-right: 1.4667rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-W7q {
+  margin-right: 1.413rem;
+  width: 2.3333rem;
+  height: 2.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .divframer-uvzujr-container-Ffm .link-svg-puD {
+  margin-top: 0.1164rem;
+  width: 2.4407rem;
+  height: 1.9833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .divframer-iitih6-68f .after-k2B {
+  width: 100rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.desktop-3-7Us .game-library--N9u .auto-group-bwfy-q9q .footer-VE7 .after-ThH {
+  width: 160rem;
+  height: 40.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0500000007);
+  box-sizing: border-box;
+}
